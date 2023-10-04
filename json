@@ -1,0 +1,93 @@
+{
+	"purchaseOrderHeader": [
+		{
+			"department": "xxx",
+			"purchaseOrderNumber": 1234567,
+			"supplier": "xxxxxxx",
+			"supplierName": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+			"supplierFactory": "01",
+			"supplierFactoryName": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+			"supplierCountry": "xxx",
+			"purchaseOrderStatus": "xxxxxxxxxxxxxx",
+			"deliverySite": "xxxx",
+			"accountType": "x",
+			"accountTypeDescription": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+			"paymentCurrency": "xxx",
+			"season": "xxxx",
+			"POApprovalDate": 19990101,
+			"intakeType": "xxxxx",
+			"3rdPartyPONumber": "xxxxxxxxxxxxxxxx",
+			"POHeaderExtendedCostBase": 123456789.123,
+			"POHeaderExtendedCostSupplierCurrency": 123456789.123,
+			"POHeaderOrderedQuantity": 1234567,
+			"POHeaderOrderedCostBase": 123456789.123,
+			"POHeaderOrderedRetailBase": 123456789.12,
+			"POHeaderOustandingQuantity": 1234567,
+			"POHeaderOutstandingCostBase": 123456789.123,
+			"POHeaderOutstandingReatilBase": 123456789.12,
+			"PODropHeader": [
+				{
+					"dropNumber": 123,
+					"dropStatus": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+					"deliveryDate": 19990101,
+					"shipmentDate": 19990101,
+					"ex-factoryDate": 19990101,
+					"deliveryMethod": 12,
+					"deliveryMethodDescription": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+					"shippingPoint": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+					"shippingTerms": 12,
+					"shippingTermsDescription": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+					"shippingVia_1": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+					"shippingVia_2": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+					"pointOfOrigin": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+					"landedCostFactor": 123,
+					"slippageWeeks": 123,
+					"slippageDeliveryDate": 19990101,
+					"appointmentNumber": 1234567890,
+					"deliveryReference": "xxxxxxxxxxxxxxx",
+					"appointmentDate": 19990101,
+					"appointStatus": "x",
+					"appointmentType": "x",
+					"PODropLineDetail": [
+						{
+							"lineNumber": 123,
+							"styleNumber": 123456,
+							"colour": "xxxx",
+							"size": "xxxx",
+							"sku": 12345678,
+							"ean": 1234567890123,
+							"styleFitStage": "xxxxxxxxxxxxxxxxxxx",
+							"dropQuantity": 1234567,
+							"supplierUnitCost": 123456789.123,
+							"baseUnitCost": 123456789.123,
+							"retailUnitValue": 123456789.12,
+							"dropExtendedCostBase": 123456789.123,
+							"dropExtendedCostSupplierCurrency": 123456789.123,
+							"dropOustandingQuantity": 1234567,
+							"dropOutstandingCostBase": 123456789.123,
+							"dropOutstandingReatilBase": 123456789.12
+						},
+						{
+							"lineNumber": 123,
+							"styleNumber": 123456,
+							"colour": "xxxx",
+							"size": "xxxx",
+							"sku": 12345678,
+							"ean": 1234567890123,
+							"styleFitStage": "xxxxxxxxxxxxxxxxxxx",
+							"dropQuantity": 1234567,
+							"supplierUnitCost": 123456789.123,
+							"baseUnitCost": 123456789.123,
+							"retailUnitValue": 123456789.12,
+							"dropExtendedCostBase": 123456789.123,
+							"dropExtendedCostSupplierCurrency": 123456789.123,
+							"dropOustandingQuantity": 1234567,
+							"dropOutstandingCostBase": 123456789.123,
+							"dropOutstandingReatilBase": 123456789.12
+						}
+					]
+				}
+			]
+		}
+	]
+}
