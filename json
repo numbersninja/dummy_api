@@ -246,7 +246,9 @@
 						"99_Desc": "CLOTHING"
 					}
 				]
-			},
+			}
+		},
+		{
 			"purchaseOrderHeader": {
 				"department": "001",
 				"purchaseOrderNumber": "0010007553",
